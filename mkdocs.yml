@@ -1,0 +1,21 @@
+site_name: 2028 대입 안내
+site_description: 2028학년도 대학입시 안내 (비공식 정보 사이트)
+site_url: https://wearefriendsfor.github.io/daeip2028/
+repo_url: https://github.com/wearefriendsfor/daeip2028
+theme:
+  name: material
+  language: ko
+  features:
+    - navigation.tabs
+    - navigation.top
+    - search.suggest
+    - content.action.edit
+nav:
+  - 홈: index.md
+  - 2028 대입 개요: overview.md
+  - 전형 일정: schedule.md
+  - 수시: susi.md
+  - 정시: jeongsi.md
+  - 학년별 준비: prepare.md
+  - FAQ: faq.md
+  - 공식 자료 링크: links.md
